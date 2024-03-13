@@ -7,3 +7,4 @@ ENV PYTHONDONTWRITEBYTECODE=1
 # Turns off buffering for easier container logging
 ENV PYTHONUNBUFFERED=1
 ENV BEEB=1
+ENV DEB=1
